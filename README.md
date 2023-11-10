@@ -1,4 +1,4 @@
-# workflow-ca // Social media client
+#WORKFLOW-CA
 
 [![Automated E2E Tests](https://github.com/ESPR07/workflow-assignment/actions/workflows/e2e-test.yml/badge.svg)](https://github.com/ESPR07/workflow-assignment/actions/workflows/e2e-test.yml)
 [![Automated Unit Testing](https://github.com/ESPR07/workflow-assignment/actions/workflows/unit-test.yml/badge.svg)](https://github.com/ESPR07/workflow-assignment/actions/workflows/unit-test.yml)
@@ -23,7 +23,7 @@ Assignments process has included following tasks:
 - VSCode
 
 
-## Installing
+### Installing
 
 1. Clone the repo:
 

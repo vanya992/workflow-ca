@@ -28,7 +28,7 @@ Assignments process has included following tasks:
 1. Clone the repo:
 
 ```bash
-git clone (https://github.com/vanya992/workflow-ca.git)
+git clone https://github.com/vanya992/workflow-ca.git
 ```
 
 2. Install all dependencies

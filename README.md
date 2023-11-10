@@ -39,7 +39,9 @@ npm install
 ## Contact
 
 linkedIn: https://www.linkedin.com/in/vladimira-dmitrovic-090183249/)https://www.linkedin.com/in/vladimira-dmitrovic-090183249;
+
 GitHub: https://github.com/vanya992;
+
 e-mail: vanjacrv92@gmail.com
 
 

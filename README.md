@@ -1,6 +1,7 @@
 #WORKFLOW-CA
 
 [![Automated E2E Tests](https://github.com/ESPR07/workflow-assignment/actions/workflows/e2e-test.yml/badge.svg)](https://github.com/ESPR07/workflow-assignment/actions/workflows/e2e-test.yml)
+
 [![Automated Unit Testing](https://github.com/ESPR07/workflow-assignment/actions/workflows/unit-test.yml/badge.svg)](https://github.com/ESPR07/workflow-assignment/actions/workflows/unit-test.yml)
 
 ## Description

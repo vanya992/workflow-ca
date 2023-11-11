@@ -12,6 +12,11 @@ Assignments process has included following tasks:
   - Configuring project with GitHub Actions
   - Configure the project for Jest and Cypress
   - Creating tests to cover the required test cases ( form validation, login validation, logout button function, emptying local storage)
+
+## Tests location 
+
+  - Unit tests are located in folder: src/js/api/auth/
+  - E2E tests are located in folder: cypress/e2e/
     
 ## Built With
 - HTML
